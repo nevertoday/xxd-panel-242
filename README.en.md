@@ -60,7 +60,7 @@ The ground is deep, misty and matte. The subject is lighter and more alive. Take
 Install from GitHub:
 
 ```bash
-npx skills add https://github.com/nevertoday/xxd-panel-242 --skill xxd-panel-242
+npx skills add https://github.com/xiaoxiaodong-ai/xxd-panel-242 --skill xxd-panel-242
 ```
 
 Restart the agent session after installation, then invoke `$xxd-panel-242`. Add `--global --agent codex --yes` when a user-level Codex installation is wanted.

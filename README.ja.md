@@ -60,7 +60,7 @@
 GitHub からインストール：
 
 ```bash
-npx skills add https://github.com/nevertoday/xxd-panel-242 --skill xxd-panel-242
+npx skills add https://github.com/xiaoxiaodong-ai/xxd-panel-242 --skill xxd-panel-242
 ```
 
 インストール後に Agent セッションを再起動し、`$xxd-panel-242` を呼び出します。ユーザー単位の Codex には `--global --agent codex --yes` を追加できます。
